@@ -1,0 +1,12 @@
+Sun Jun 26 10:03:01 PDT 2016
+20 100 4 male imperial Potato 1 juvenile
+1
+1
+do work
+1
+;dskjf
+2
+eat food
+go running
+1
+4 0 2 0

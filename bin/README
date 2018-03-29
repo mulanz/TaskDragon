@@ -1,0 +1,10 @@
+Instructions to TaskDragon: 
+-The goal of TaskDragon is to complete Habits and Todos to grow a dragon. To add a habit or task, click the (+) 
+buttons in the two lists. 
+-When it asks you for a new task, don't forget to name your habits and todos!!!! If you don't, it won't work! 
+-When you finish a task, click the checkbox and the tasks will disappear. Todos will increase your dragon's age
+by 5. When your dragon is 20, it will evolve. The picture will change, because your dragon grew. The program
+will inform you! 
+-There is a database, so when you exit out of the file and rerun it, it will remember the tasks you haven't finished,
+and your dragon stats. 
+-Have fun! 
